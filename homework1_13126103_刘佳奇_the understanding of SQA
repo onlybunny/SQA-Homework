@@ -1,0 +1,15 @@
+The understanding of SQA
+
+I got the definition of SQA from wiki: Software quality assurance (SQA) consists of a means of monitoring the software engineering processes and methods used to ensure quality.
+
+Quality is not only about the product quality but also the process quality. Quality is important to the entire software development process so SQA encompasses the entire software development process, which includes processes such as requirements definition, software design, coding, source code control, code reviews, change management, configuration management, testing, release management, and product integration.
+
+In charpter 3 we can get that SQA contains QA as Dealing with Defect, Defect Prevention, Defect Detection and Removal, Defect Containment.
+
+If we don't have a process with high quality, I don't think we can get a nice product easily. To the contrary, if we have, the quality will always be good. So SQA is important to a develepement team to achieve its goal. We must be aware of its importance to software engineering.
+
+That's my understanding of SQA.
+
+刘佳奇
+
+2014-3-6
