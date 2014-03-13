@@ -1,0 +1,20 @@
+The summary of the content of week 2.
+
+Firstly, QA in Context. In different processes, what QA focuses are diffrent. In process requirments and 
+specification, design and coding, QA focuses on defect prevention. In coding and testing, QA focus on 
+defect removal. In the release and support process, it focuses on defect containment. QA scattered throughout all 
+processes. V&V in V-model make it clear that how to verify the quality by different test methods in 
+different processes. We can say that QA is in the overall development context.
+
+The second is that SQE contains three activities : quality planning, QA activities and QA analysis/feedback 
+which all are part of development activities. Quality planning is part of product planning. QA activities 
+are part of development activities. And analysis/feedback is part of project management.
+
+The third part is about testing. Testing contains plannning and preparation, execution and analysis & Follow-up.  
+We can't stop testing before all the quality-based criteria are reached unless we hava cretical resource limit.
+
+That's my summary of week 2.
+
+刘佳奇
+
+13126103
