@@ -1,0 +1,33 @@
+The following is my understanding of formal methods in general and model checking in particular.
+
+We knows formal methods = formal specification + formal verification. What is formal specification and formal 
+
+verification?Formal specification (FS) is part of defect prevention to prevent/reduce defect injection due to 
+
+imprecision, ambiguity, etc. Formal verification is part of QA, but focus on positive "Prove absence of fault". 
+
+FS is briefly covered as related to FV.
+
+Firstly formal inspection, inspection is Part of QA. It is throughout the software process: in coding phase 
+
+code inspection is used and in design phase design inspection is used, etc. Its generic process is: Planning
+
+and preparation (individual), Collection (group/meeting) and Repair (followup). Based on that generic process, 
+
+there are some variations of it. Fagan inspection and other expanded Fagan inspections are mentioned which 
+
+include six steps: Planning Overview (1-to-n meeting), Preparation (individual inspection), Inspection (n-to-n 
+
+meeting), Rework, Follow-up. Sencondly formal verification, basic approaches include Floyd/Hoare axiomatic, 
+
+Dijkstra/Gries weakest precond (WP), Mills’ prog calculus/functional approach, etc. The model checking is 
+
+behavioral specification via FSMs, properties of interest expressed as a suitable formula. Some algorithm/program 
+
+are used to check proposition validity.
+
+刘佳奇
+
+13126103
+
+2014-4-3
