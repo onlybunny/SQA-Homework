@@ -1,0 +1,35 @@
+The followings are pairwise comparisons between testing and other QA alternatives.
+
+1 testing vs. defect prevention
+
+1) Applicability: testing is about code but defect prevention is about known causes.
+2) Effectiveness: testing deals with occasional failures but defect prevention deals with systematic problems.
+3) Cost: the cost of test is medium but that of defect prevention is low(lower than testing).
+
+2 testing vs. inspection
+
+1) Applicability: testing is about code but inspection is about s/w artifacts.
+2) Effectiveness: testing deals with occasional failures but inspection deals with scattered faults.
+3) Cost: the cost of test is medium but that of inspection is low-medium(lower than testing).
+
+3 testing vs. formal verification
+
+1) Applicability: testing is about code but formal verification is about formal specification.
+2) Effectiveness:testing deals with occasional failures but formal verification deals with fault absence.
+3) Cost: the cost of test is medium but that of formal verification is high(higher than testing).
+
+4 testing vs. fault tolerance
+
+1) Applicability: testing is about code but fault tolerance is about duplication.
+2) Effectiveness: testing deals with occasional failures but fault tolerance deals with rare-cond. failures.
+3) Cost: the cost of test is medium but that of fault tolerance is high(higher than testing).
+
+5 testing vs. failure containment
+
+1) Applicability: testing is about code but failure containment is about known hazards.
+2) Effectiveness: testing deals with occasional failures but failure containment deals with rare-cond. accidents.
+3) Cost: the cost of test is medium but that of failure containment is highest(higher than all).
+
+刘佳奇
+
+13126103
