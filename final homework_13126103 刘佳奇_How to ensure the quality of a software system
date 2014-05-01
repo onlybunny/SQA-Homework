@@ -1,0 +1,50 @@
+                    How to ensure the quality of a software system
+
+                                  13126103 刘佳奇
+
+Thanks to the teacher's guidance, I learned a lot and get to know a lot of things I didn’t know from software 
+quality assurance course. According to what we have learned in this course, I will give my own opinion on 
+quality assurance of diandian words software.
+
+For quality assurance of diandian software, the first thing I can think out is testing. We must test the 
+functions of the product before it is sent to users. The tester write test cases, execute test cases, and 
+write test report, making good feedback to the developers. Developers seriously read test reports, fix bugs 
+and feedback to testers. Test should confirm it again.
+
+Quality assurance, however, is not just end-to-end testing, even not just testing. There are a lot of 
+alternatives, such as defect prevention, inspection, formal verification, fault tolerance, failure containment, 
+etc. In different processes, what QA focuses are different. In process requirements and specification, design 
+and coding, QA focuses on defect prevention. In coding and testing, QA focus on defect removal. In the release 
+and support process, it focuses on defect containment. QA scattered throughout all processes. Testing contains 
+planning and preparation, execution and analysis & Follow-up.  We can't stop testing before all the 
+quality-based criteria are reached unless we have critical resource limit. Quality planning and QA analysis/
+feedback all are also important part of development activities.
+
+Imagine that if there is no good way to guarantee the quality of demand and the development processes, how 
+is it possible that at the time of the end-to-end it can meet the requirements? Therefore, in each stage of 
+software development we cannot ignore quality assurance.
+
+
+In the end of requirements development stage we should review the quality of requirements specifications in 
+detail to make sure that it's in accordance with user requirements. Only when we do this, the requirement 
+specifications can be the basis of software development.
+
+Unit testing is a kind of white-box testing method which is mainly completed by developers. Unit testing helps 
+developers to make sure every function they write is correct. The time spent on unit test may not even shorter 
+than coding, but it is very effective to guarantee the quality of the code. We should spend enough time on it. 
+We should also use peer review to ensure the correctness and maintainability of code. In each development 
+iteration cycle, we have to do end-to-end testing and ensure its feedback quality. Walkthroughs technology 
+should also be used for informal review which is important to ensure the successful completion of all development 
+processes.
+
+Only in this way that one company establishes a company institution so that people respect the quality assurance 
+department, the quality assurance can have effective results. Ultimately it should be formed a corporate culture.
+
+For diandian, I have made some tests on it. It’s easily used but inescapably has some bugs. I think its UI can be 
+made more interesting to users, too.
+
+That is all of my understanding of quality assurance of a software system.
+
+Thanks!
+
+13126103 刘佳奇
